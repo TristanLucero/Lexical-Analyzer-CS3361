@@ -1,5 +1,5 @@
 /* 
-Tristan Lucero (R11597605) | Assignment #3 | 10/11/2020
+Tristan Lucero () | Assignment #3 | 10/11/2020
 This program is a lexical analyzer written in C to identify lexemes
 and tokens found in a source code file which is provided as a 
 command line arguement.
